@@ -1,0 +1,24 @@
+body{
+    background-color:pink;
+}
+h1{
+   color:aquamarine;
+   size: 20px;
+}
+img{
+    background-color: blue;
+}
+.mushroom{
+    background-color: whitesmoke;
+}
+.home{
+    background-color: aqua;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+       color:yellow;
+
+}
